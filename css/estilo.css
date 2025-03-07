@@ -12,5 +12,6 @@ table, th, td{padding: 2;
               align:center;
              }
 a{text-align:center;
- border:solid black 2px;}
+ border:solid black 2px;
+ padding:2;}
 p{text-align:center;}
