@@ -9,6 +9,7 @@ padding-top: 20px;
 width: 100%;}
 table, th, td{padding: 2;
              text-align:center;
+              align:center;
              }
 a{text-align:center;
  border:solid black 2px;}
